@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.Member_content{
+	width:100%;
+	float:left;
+	height:350px;
+	margin-bottom:50px;
+	position:relative;
+	display:inline-block;
+}
+.Member_img{
+	float:left;
+	width:27%;
+	padding:2%;
+	margin:0.5%;
+	text-align:center;
+}
+.Member_text{
+	float:left;
+	width:70%;
+	padding:20px;
+	height:350px;
+	overflow:auto;
+}
