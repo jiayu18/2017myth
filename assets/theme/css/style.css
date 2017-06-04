@@ -525,8 +525,9 @@ p.lead,
   font-weight: 300;
   line-height: 1.85em; }
   .lead a {
-    font-style: italic;
-    font-weight: 400; }
+    /* font-style: italic; */
+    font-weight: 400;
+    }
     .lead a, .lead a:hover {
       text-decoration: none; }
   .lead h1 {
